@@ -7,4 +7,4 @@ hello world!!!
 2. git merge 和 git pull 区别
 3. git 工作区 暂存区 本地仓库 远端仓库
 4. git fetch show
-
+5. git reset 
